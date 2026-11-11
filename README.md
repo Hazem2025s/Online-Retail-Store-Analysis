@@ -30,7 +30,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter Notebook
 3. Open the notebook and choose **Run All**.
 
 ## Author
-[Hazem Aboelabas] · [LinkedIn]((https://www.linkedin.com/in/hazem-aboelabas-3323aa29a/))
+[Hazem Aboelabas] · [LinkedIn][((https://www.linkedin.com/in/hazem-aboelabas-3323aa29a/))](https://www.linkedin.com/in/hazem-aboelabas-3323aa29a/)
 
 
 markdown
