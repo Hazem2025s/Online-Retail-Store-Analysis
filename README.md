@@ -30,15 +30,8 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter Notebook
 3. Open the notebook and choose **Run All**.
 
 ## Author
-**[Your name]** · [LinkedIn](your-linkedin-link)
+[Hazem Aboelabas] · [LinkedIn](your-linkedin-link)
 
-Thanks to my instructor **[Instructor name]** for the guidance and feedback.
-
-Replace the notebook filename if you rename the file, and fill in your name, LinkedIn link and instructor name. If your CSV is too large to upload to GitHub (the limit for normal uploads is 25 MB through the website), mention the dataset source in the README instead of the file.
-
-350 words
-
-This README is about 350 words, ready to paste as README.md:
 
 markdown
 # Online Retail: Full Data Analysis
